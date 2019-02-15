@@ -1,0 +1,86 @@
+30 300
+35
+Ground 216 298 76 8 Y
+Ground 324 258 60 11 Y
+Ground 265 223 33 12 Y
+Ground 207 224 35 11 Y
+Ground 162 155 52 12 Y
+Ground 252 128 38 9 Y
+Ground 323 102 34 8 Y
+Ground 429 64 9 5 Y
+Ground 387 85 7 4 Y
+Ground 467 48 166 11 Y
+Ground 524 26 25 25 Y
+Ground 570 3 25 48 Y
+Ground 593 27 8 5 Y
+Wall -315 -12 337 756 N
+Ground 22 291 46 11 Y
+Ground 64 240 38 5 Y
+Ground 76 211 12 30 Y
+Ground 103 181 28 6 Y
+Ground 21 216 21 10 Y
+Ground 137 233 34 10 Y
+Wall 643 359 863 418 Y
+Wall 619 1 52 388 Y
+Wall 657 47 173 361 Y
+Ground 862 91 71 11 Y
+Ground 830 141 56 12 Y
+Ground 867 198 67 15 Y
+Ground 873 297 70 15 Y
+Wall 923 -158 146 470 Y
+Ground 22 264 19 38 Y
+Wall -106 354 760 411 Y
+Ground 432 319 149 167 Y
+Ground 91 324 93 165 Y
+Ground 831 252 50 13 Y
+Wall -409 166 315 601 Y
+Ground 1069 73 436 219 Y
+
+8
+Viking3 359 315
+Viking1 572 -35
+Viking1 692 7
+Viking1 1474 323
+Viking1 536 278
+Viking2 348 218
+Viking2 175 116
+Viking3 -102 315
+
+1
+Background: resources/Levels/01/CutsceneBackground.png
+Trigger: START
+Characters: 2 
+Merek: 100 230 R 2 180 180
+Stand PNG resources/Player/0Animations/soldier.png
+Walk GIF /Player/0Animations/soldier_walk.gif
+Doran: 200 250 L 2 150 150
+Stand GIF /Player/0Animations/Archer_Idle.gif
+Walk GIF /Player/0Animations/Archer_Walk.gif
+27
+Doran: Merek, Merek! Wake up!
+Merek: What happened…
+Doran: They almost killed you. ~ The Vikings… ~ They attacked again.
+Merek: Is everyone alright?
+Narrator: Doran stares at Merek
+Merek: Doran, is everyone alright?
+Doran: Merek… ~ Your sister…
+Merek: …
+Doran: She’s gone… ~ … ~ We think they took her…
+Merek: …
+Doran: …
+Merek: … ~ How long? 
+Doran: ?
+Merek: Dammit Doran, how long since they took her?
+Doran: Several puncts
+<2> Merek +200 0 R
+<1> Merek 0 0 L
+<1> Doran 0 0 R
+Doran: Wait Merek. ~ You’re not going after them are you?
+Merek: What choice do I have… ~ She’s the only family I have left…
+Doran: LET THE KNIGHTS TAKE CARE OF IT!!
+Merek: WHAT KNIGHTS! ~ …the ones that are supposed to protect us? ~ They couldn’t even do that…
+Doran: But…what about the uhyres.
+<2> Merek 0 0 R
+Merek: I can take care of myself… ~ Stay safe… ~ Doran
+<2> Merek +700 0 R
+<2> Doran -500 0 L

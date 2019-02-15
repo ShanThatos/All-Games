@@ -1,0 +1,10 @@
+70 70
+8
+0 0 Tile_1 TopHalf
+0 1 Tile_2 TopHalf
+1 4 Tile_3 Full
+2 4 Tile_4 Full
+3 4 Tile_5 Full
+4 4 Tile_6 Full
+0 4 Tile_7 SlopeDownRight
+6 3 Tile_8 SlopeUpRight

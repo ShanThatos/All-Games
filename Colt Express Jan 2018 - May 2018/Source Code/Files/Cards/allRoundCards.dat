@@ -1,0 +1,20 @@
+7
+DropLockBox 4 U D UU U
+AtopMove2Caboose 4 U D U U
+NoSpecial 5 U D U D U
+NoSpecial 3 U UU U
+AtopMoveForw1 4 U U U U
+AllInTrainDamage 5 U U D U U
+SheriffShootsUp 4 U U D R
+
+
+
+
+
+
+
+Rules: 
+U: Cards Face Up
+D: Cards Face Down
+UU: Everyone plays twice for their turn (Can play 2 cards or even take 3 & play 1)
+R: Current Turn is played counter-clockwise
